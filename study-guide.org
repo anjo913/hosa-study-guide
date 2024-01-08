@@ -3,6 +3,7 @@
 :END:
 #+title: HOSA Biotechnology Study Guide
 #+author: Antonino Libarnes
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 
 * Written
 ** [[id:56363c8b-69e1-4c7b-b636-678a6cff85ae][Biotechnology industry practices and careers]]

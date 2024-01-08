@@ -3,6 +3,7 @@
 :END:
 #+title: Basic laboratory skills
 #+author: Antonino Libarnes
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 
 
 * Personal Protective Equipment (PPE)
@@ -11,7 +12,7 @@
 - eye :: safety glasses with side protection >>> splash goggles
 - shortwave UV :: full face mask with UV protectant material
 - gloves :: latex, nitrile, vinyl
-  - latex :: simple barrier
+  - latex for simple barrier
   - heat/cold resistant for extreme temperatures
 - feet :: closed-toed shoes
 * Pipetting
@@ -30,7 +31,7 @@
 - graduated :: glass/plastic cylindrical shape, not as accurate as volumetric
   - Mohr pipets :: dead volume beyond zero mark; do _NOT_ empty
   - serological pipet :: deliver entire contents; blow out last drops
-  - 10 mL disposable serological pipet has 0.15 mL accuracy
+    - 10 mL disposable serological pipet has 0.15 mL accuracy
 ** micropipets
 - measure fixed or adjustable volumes
 - <1 mL

@@ -3,6 +3,7 @@
 :END:
 #+title: Polymerase chain reaction (PCR)
 #+author: Antonino Libarnes
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 
 * steps
 - denaturation :: denature template DNA, breaking H bonds
@@ -12,7 +13,7 @@
 - extension :: add nucleotides to 3' end
   - *reads* template strand in *3'-5'*
   - *writes* base pairs *5'-3'*
-- repeated 25-40 times to amplify
-  - amplicon :: PCR product, DNA from 5' of primer to 5' of other
+repeated 25-40 times to amplify
   - no amplicon until 3rd cycle
-- 2^(n-3) copies of target, n=number of cycles
+  - amplicon :: PCR product, DNA from 5' of primer to 5' of other
+  - 2^(n-3) copies of target, n=number of cycles

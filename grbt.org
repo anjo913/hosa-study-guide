@@ -3,6 +3,7 @@
 :END:
 #+title: Governmental regulation of biotechnology
 #+author: Antonino Libarnes
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 
 * main agencies
 ** Food and Drug Administration (FDA)
@@ -30,9 +31,9 @@
     - breaking down chemical pollutants
   - microorganisms in agriculture, biosensors, biofuels
 * healthcare
-- regulating agency :: FDA
 - therapeutic drugs, medical devices, diagnostic tools
 - safety and efficacy
+- regulating agency :: FDA
 - good laboratory practice (GLP) :: preclinical research & data meet level of quality
 * animal research
 - Institutional Animal Care and Use Committe (IACUC) :: oversees animal work in institution
@@ -43,9 +44,9 @@
 - U.S. Public Health Service (PHS) Act :: covers lab animals in institutions that receive NIH, FDA, CDC funding
   - must adhere to "Guide for the Care and Use of Laboratory Animals" by National Research Council of the National Academies
 * waste disposal
-- regulating agency :: EPA
 - generation and disposal
 - jurisdiction-specific guidelines
+- regulating agency :: EPA
 ** types of waste
 *** nonhazardous liquid and solid
 *** biohazardous
@@ -67,9 +68,9 @@
 - EPA whitepaper (2007) on info & potential issues
 - NIOSH investigating potential health concerns
 * workplace safety
-- regulating agency :: OSHA (dept. of labor)
 - health & safety standards, worksite inspections, PPE necessary
-- lab PPE :: lab coat, safety glasses, gloves
 - hazardous chemicals, biohazards (microbial cultures, blood-borne pathogens)
 - training for hazmat, general safety
 - log of injuries & illnesses required
+- regulating agency :: OSHA (dept. of labor)
+- lab PPE :: lab coat, safety glasses, gloves

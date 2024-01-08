@@ -1,0 +1,75 @@
+:PROPERTIES:
+:ID:       b077d908-d942-4757-a4d9-a23a1d6aa8e8
+:END:
+#+title: Governmental regulation of biotechnology
+#+author: Antonino Libarnes
+
+* main agencies
+** Food and Drug Administration (FDA)
+- food + beverages are safe for human consumption
+- therapeutic drugs and devices are *safe* and *effective*
+** Environmental Protection Agency (EPA)
+- protect human health and envifronment
+** U.S. Department of Agriculture (USDA)
+- protect agriculture
+** Occupational Safety and Health Administration (OSHA)
+- protect safety of workers in workplace
+
+* genetically modified organisms (GMOs)
+- research labs :: NIH
+- commercial :: other agencies
+- food supply :: FDA
+  - label _NOT_ required if "substantially equivalent" in nutrition and health
+  - organic :: <5% GMO ingredients
+  - EU & JP :: if >1% GMO ingredients, label required
+- field testing :: Animal and Plant Health Inspection Service (*APHIS*), sub. of USDA
+  - pesticide & herbicide resistance
+- environment :: EPA
+  - Toxic Substances Control Act Biotechnology Program
+    - producing industrial enzymes, chemicals
+    - breaking down chemical pollutants
+  - microorganisms in agriculture, biosensors, biofuels
+* healthcare
+- regulating agency :: FDA
+- therapeutic drugs, medical devices, diagnostic tools
+- safety and efficacy
+- good laboratory practice (GLP) :: preclinical research & data meet level of quality
+* animal research
+- Institutional Animal Care and Use Committe (IACUC) :: oversees animal work in institution
+  - need, species selection, fewest subjects
+- Animal Welfare Act (AWA) :: care standards during research, requires anesthesia/analgesic
+  - through APHIS, USDA
+  - does not cover rats & mice (90% of lab research)
+- U.S. Public Health Service (PHS) Act :: covers lab animals in institutions that receive NIH, FDA, CDC funding
+  - must adhere to "Guide for the Care and Use of Laboratory Animals" by National Research Council of the National Academies
+* waste disposal
+- regulating agency :: EPA
+- generation and disposal
+- jurisdiction-specific guidelines
+** types of waste
+*** nonhazardous liquid and solid
+*** biohazardous
+- medical waste
+  - tissue samples, blood, cell/microbe cultures, virus stocks, sharps
+- treated by steam sterilization (autoclaving), gas sterilization, or chemical disinfection (e.g. bleach)
+- after treatment, nonhazardous
+- sharps transported to specialized facilities
+*** toxic
+- poisonous, radioactive, flammable, explosive, corrosive, carcinogenic, mutagenic, teratogenic, bioaccumulative
+- chemicals & reagents labelled
+- possible disposal
+  - seal & bury in landfill
+  - incineration
+  - microorganisms converting waste to be less toxic
+- high cost
+* nanotechnology
+- no specific regulations
+- EPA whitepaper (2007) on info & potential issues
+- NIOSH investigating potential health concerns
+* workplace safety
+- regulating agency :: OSHA (dept. of labor)
+- health & safety standards, worksite inspections, PPE necessary
+- lab PPE :: lab coat, safety glasses, gloves
+- hazardous chemicals, biohazards (microbial cultures, blood-borne pathogens)
+- training for hazmat, general safety
+- log of injuries & illnesses required

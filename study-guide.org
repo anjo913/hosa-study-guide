@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       5d57df66-71a2-4459-a4e0-44d293ed66f9
+:END:
+#+title: HOSA Biotechnology Study Guide
+#+author: Antonino Libarnes
+
+* Written
+** [[id:56363c8b-69e1-4c7b-b636-678a6cff85ae][Biotechnology industry practices and careers]]
+** Biotechnology in health
+** [[id:b077d908-d942-4757-a4d9-a23a1d6aa8e8][Governmental regulation of biotechnology]]
+** [[id:fe9a4439-82e9-4bdc-913b-6d4f3fe3301f][Basic laboratory skills]]
+** Microbiology and cell culture
+** DNA structure and analysis
+** Bacterial transformation
+** [[id:1fbbae70-00e5-4f92-ae7c-bbc3b74c72fc][Polymerase chain reaction (PCR)]]
+** Protein structure, function, and analysis
+** Immunological applications
+* Skills
+** Skill I: Using Micropipets, Transfer Pipets, and a Balance
+** Skill II: Restriction Digestion Reaction
+** Skill III: DNA Gel Electrophoresis
+** Skill IV: DNA Gel Interpretation
+** Skill V: Bradford Protein Quantitation Assay
+** Skill VI: Bacterial Transformation
+** Skill VII: Calculation of Transformation Efficiency
+** Skill VIII: Qualitative ELISA

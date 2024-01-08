@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       fe9a4439-82e9-4bdc-913b-6d4f3fe3301f
+:END:
+#+title: Basic laboratory skills
+#+author: Antonino Libarnes
+
+
+* Personal Protective Equipment (PPE)
+- protect against specific hazards
+- worn at all times
+- eye :: safety glasses with side protection >>> splash goggles
+- shortwave UV :: full face mask with UV protectant material
+- gloves :: latex, nitrile, vinyl
+  - latex :: simple barrier
+  - heat/cold resistant for extreme temperatures
+- feet :: closed-toed shoes
+* Pipetting
+** vacuum-assisted pipets
+- liquid drawn by creating vacuum w/ pump
+  - pump can be rubber bulb, motorized pump, etc.
+- 1-25 mL
+- measure volume at bottom of meniscus
+- some have cotton plug inside top
+- Pasteur pipet :: glass, no graduation marks; used to transfer liquid
+- disposable plastic transfer pipet, bulb pipet :: graduated, but not accurate
+  - available in sterile packages
+- volumetric :: glass, graduation marks; measure single specific volume very accurately
+  - accurate w/ gravity; do _NOT_ blow out remaining liquid
+  - 10 mL Class A has 0.02 mL accuracy
+- graduated :: glass/plastic cylindrical shape, not as accurate as volumetric
+  - Mohr pipets :: dead volume beyond zero mark; do _NOT_ empty
+  - serological pipet :: deliver entire contents; blow out last drops
+  - 10 mL disposable serological pipet has 0.15 mL accuracy
+** micropipets
+- measure fixed or adjustable volumes
+- <1 mL
+- volume ranges :: 0.5-10, 2-20, 20-200, 100-1,000 (uL)
+  - most accurate at top of range
+- accuracy :: ~0.5-4%
+- fresh tip for every new reagent
+- mechanisms

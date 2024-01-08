@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       1fbbae70-00e5-4f92-ae7c-bbc3b74c72fc
+:END:
+#+title: Polymerase chain reaction (PCR)
+#+author: Antonino Libarnes
+
+* steps
+- denaturation :: denature template DNA, breaking H bonds
+  - tempearture :: 94°C
+- annealing  :: primers anneal to target sequents, forming H bonds
+  - temperature :: ~50-60°, specific to primer
+- extension :: add nucleotides to 3' end
+  - *reads* template strand in *3'-5'*
+  - *writes* base pairs *5'-3'*
+- repeated 25-40 times to amplify
+  - amplicon :: PCR product, DNA from 5' of primer to 5' of other
+  - no amplicon until 3rd cycle
+- 2^(n-3) copies of target, n=number of cycles
